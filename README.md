@@ -1,7 +1,10 @@
-Hi, I'm Metavonic. I usally build projects on the ethereum, bsc, solana and optimism networks.
-I'm now working on a DeFi project.
-You can follow me on [Twitter](https://twitter.com/lilnightfall) and [Instagram](https://instagram.com/metavonic).
-I'm still in middle school so you can say that building projects is my part-time job.
-Good Bye!
+Hi, I'm Dishann.
+I'm a middle school student and I make projects based on the Web3 and Blockchains networks like Solana, Ethereum, BNB and more.
+
+I have a good experience in the Crypto and Web3 industry. I'm also an investor of Bitcoin, Ethereum, Solana, BNB, and More.
+I'm a decent developer/programmer in Python, Solidity and Rust and currently learning Java and JS.
+
+You could follow me on [Instagram](https://instagram.com/metavonic) and [Twitter](https://twitter.com/iammetavonic).
+Goodbye!
 
 
